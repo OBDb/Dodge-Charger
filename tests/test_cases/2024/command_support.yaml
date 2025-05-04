@@ -1,0 +1,6 @@
+model_year: 2024
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+unsupported_commands_by_ecu:
+  6B4:
+  - 6B4.694.22D410

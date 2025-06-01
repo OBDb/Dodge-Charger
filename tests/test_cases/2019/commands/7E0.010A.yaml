@@ -1,0 +1,8 @@
+command_id: 7E0.010A
+test_cases:
+- response: 7E803410A75
+  expected_values:
+    FP: 351
+- response: 7E803410A7D
+  expected_values:
+    FP: 375

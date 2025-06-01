@@ -1,0 +1,18 @@
+command_id: 7E0.0168
+test_cases:
+- response: |-
+    7E81009416807627572
+    7E82100000007627572
+  expected_values:
+    IAT_11: 58
+    IAT_11_SUP: 1
+    IAT_12: 77
+    IAT_12_SUP: 1
+    IAT_13: 74
+    IAT_13_SUP: 1
+    IAT_21: -40
+    IAT_21_SUP: 0
+    IAT_22: -40
+    IAT_22_SUP: 0
+    IAT_23: -40
+    IAT_23_SUP: 0

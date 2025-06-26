@@ -1,32 +1,32 @@
 command_id: 7E0.012F
 test_cases:
-- response: 7E803412F21
-  expected_values:
+- expected_values:
     FLI: 12.94118
-- response: 7E803412F23
-  expected_values:
+  response: 7E803412F21
+- expected_values:
     FLI: 13.72549
-- response: 7E803412F26
-  expected_values:
+  response: 7E803412F23
+- expected_values:
     FLI: 14.90196
-- response: 7E803412F68
-  expected_values:
+  response: 7E803412F26
+- expected_values:
     FLI: 40.78431
-- response: 7E803412F72
-  expected_values:
+  response: 7E803412F68
+- expected_values:
     FLI: 44.70588
-- response: 7E803412F7A
-  expected_values:
+  response: 7E803412F72
+- expected_values:
     FLI: 47.84314
-- response: 7E803412F82
-  expected_values:
+  response: 7E803412F7A
+- expected_values:
     FLI: 50.98039
-- response: 7E803412F84
-  expected_values:
+  response: 7E803412F82
+- expected_values:
     FLI: 51.76471
-- response: 7E803412F93
-  expected_values:
+  response: 7E803412F84
+- expected_values:
     FLI: 57.64706
-- response: 7E803412FF2
-  expected_values:
+  response: 7E803412F93
+- expected_values:
     FLI: 94.90196
+  response: 7E803412FF2

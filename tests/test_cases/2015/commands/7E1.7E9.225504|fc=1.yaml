@@ -22,6 +22,9 @@ test_cases:
     DODGE_GEAR_TARGET: '7'
   response: '7E90462550407'
 - expected_values:
+    DODGE_GEAR_TARGET: '8'
+  response: '7E90462550408'
+- expected_values:
     DODGE_GEAR_TARGET: REAR
   response: 7E9046255040B
 - expected_values:

@@ -1,25 +1,43 @@
+references:
+  - "https://en.wikipedia.org/wiki/Dodge_Charger"
+
 generations:
   - name: "First Generation"
     start_year: 1966
     end_year: 1967
-    description: "The original Dodge Charger was introduced as a fastback variant of the B-body platform, featuring distinctive styling with hidden headlights and a full-width taillight panel. The interior offered four bucket seats and a full-length console, emphasizing its sporty character. Engine options ranged from the 318 cubic-inch V8 to the powerful 426 Hemi. This generation established the Charger as a style-focused performance car within the Dodge lineup, though sales were modest compared to later versions."
+    description: "The original Dodge Charger was introduced mid-1966 as a fastback variant of the Chrysler B-body platform, featuring distinctive styling with hidden headlights and a full-width grille with a 'wall-to-wall' taillamp design. The interior offered four bucket seats with a center console and race-inspired instrument gauges. Engine options ranged from the 318 cubic-inch V8 to the powerful 426 Hemi. Positioned as an upscale sports-type luxury model, sales of the 1966 and 1967 Chargers were modest due to the fastback design's proportions looking tall relative to its narrow track width."
 
   - name: "Second Generation"
     start_year: 1968
     end_year: 1970
-    description: "The second-generation Charger featured completely redesigned bodywork with a curved 'Coke bottle' profile that became instantly iconic. This design is widely considered one of the most beautiful American cars of its era. Engine options continued to range from small-block V8s to the legendary 426 Hemi and 440 Six Pack. The Charger gained significant cultural impact through its appearance in films and television, most notably as the 'General Lee' in 'The Dukes of Hazzard' and the villain car in 'Bullitt.' Performance variants included the R/T and the rare Charger 500 and Charger Daytona with aerodynamic modifications for NASCAR racing."
+    description: "The second-generation Charger was completely redesigned for 1968 with iconic curved 'Coke bottle' body lines that became widely considered one of the most beautiful American cars of its era. Production demand exceeded expectations, with 96,100 units produced in 1968 alone. Engine options continued from small-block V8s to the legendary 426 Hemi and 440 Six Pack. The Charger gained significant cultural impact through television and film appearances, most notably as the 'General Lee' in 'The Dukes of Hazzard.' Special performance variants included the more aerodynamic Charger 500 and 1970 Charger Daytona designed for NASCAR racing. The 1970 Charger won the most NASCAR races that year, helping Bobby Isaac win the championship."
 
-  - name: "Third through Fifth Generations"
+  - name: "Third Generation"
     start_year: 1971
+    end_year: 1974
+    description: "The third-generation Charger was introduced for the 1971 model year based on Chrysler's modified B-platform to meet new emissions and safety regulations. Available in six different packages with cosmetic changes including a split grille, semi-fastback rear window, and ducktail spoiler. The 1973 and 1974 models featured minor differences in grille and headlamps, plus new quarter windows that were larger and shaped differently than the 1971-1972 models. Sales increased during this period primarily due to the elimination of the Dodge Coronet two-door, making the Charger Dodge's only two-door intermediate-size offering."
+
+  - name: "Fourth Generation"
+    start_year: 1975
+    end_year: 1978
+    description: "The 1975 Charger was restyled to move the model into the growing personal luxury car market segment, sharing its body with the new Chrysler Cordoba. For 1976, former Coronet coupes were rebranded as Charger and Charger Sport variants. A Daytona model was added featuring distinctive stripes running along the length of the car. In 1978, Dodge added the Magnum to the personal luxury segment, completing the range."
+
+  - name: "Fifth Generation"
+    start_year: 1981
     end_year: 1987
-    description: "Subsequent Charger generations reflected the changing automotive landscape of the 1970s and 1980s. The third generation (1971-1974) maintained a muscle car image but with more rounded styling. The fourth generation (1975-1978) shifted to a personal luxury coupe based on the Chrysler Cordoba. The fifth generation (1982-1987) dramatically departed from tradition as a front-wheel drive hatchback based on the L-body platform, focusing on efficiency and practicality rather than performance. These transitions reflected the industry's response to changing consumer preferences, fuel economy concerns, and emissions regulations."
+    description: "After a three-year absence, the Charger returned in 1981 as a front-wheel-drive subcompact hatchback coupe with five-speed manual or three-speed automatic transmission. Similar to the Dodge Omni 024 but slightly larger, it featured a 2.2L SOHC engine with optional turbocharged variant. A Shelby Charger variant was introduced starting in 1983, with the turbocharged version producing 142 hp in 1984, increased to 146 hp in 1985, and reaching 175 hp in 1987 with the Shelby-tuned GLHS model featuring an intercooler and upgraded fuel injection system. The final 1000 L-body Chargers built in 1987 were Shelby editions."
 
   - name: "Sixth Generation (LX)"
     start_year: 2006
     end_year: 2010
-    description: "After a 19-year hiatus, the Charger nameplate returned as a full-size four-door sedan built on Chrysler's LX platform, which incorporated some Mercedes-Benz E-Class components from the DaimlerChrysler era. The controversial four-door configuration was a significant departure from the coupe tradition but allowed the model to serve as both a performance vehicle and practical family car. Engine options ranged from a 2.7L V6 to a 6.1L HEMI V8 in the SRT8 model. The sixth generation reestablished the Charger as a modern muscle car while expanding its appeal beyond the traditional performance market."
+    description: "After a twenty-year absence, the Charger nameplate returned for the 2006 model year (introduced in 2005) as a full-size four-door sedan built on the Chrysler LX platform, incorporating some Mercedes-Benz E-Class components from the DaimlerChrysler era. The controversial four-door configuration was a significant departure from the classic coupe tradition but allowed the model to serve as both a performance vehicle and practical family car. Available in SE, SXT, R/T, and SRT8 versions with engine options from 2.7L V6 to 6.1L Hemi V8. All-wheel drive was first available only on the R/T package but expanded to SE and SXT versions from 2009 onward. The sixth generation reestablished the Charger as a modern American muscle car."
 
   - name: "Seventh Generation (LD)"
     start_year: 2011
     end_year: 2023
-    description: "The seventh-generation Charger featured comprehensive updates to the exterior styling and interior quality while maintaining the LX platform architecture. Initially powered by the new 3.6L Pentastar V6 or 5.7L HEMI V8, the lineup expanded over time to include the 6.4L SRT 392 and later the supercharged 6.2L Hellcat variants producing up to 797 HP in the Redeye model. A significant facelift in 2015 introduced more modern styling with LED lighting and improved technology features. Throughout its production, the Charger maintained its position as America's only four-door muscle car, consistently receiving updates and special editions that kept the aging platform relevant. Production concluded in 2023 with various commemorative Last Call editions, marking the end of the traditional HEMI-powered Charger before its transformation into an electric vehicle for the next generation."
+    description: "The seventh-generation Charger received comprehensive updates for 2011 with new exterior styling and interior quality while maintaining LX platform architecture. Updated side scoops, angular headlights, aggressive grille styling, and modern wrap-around LED tail lights improved driver visibility by over 15%. Base performance increased with a 3.6L Pentastar V6 replacing the previous 3.5L unit. A significant 2015 facelift brought new LED headlights, more aerodynamic nose design, and redesigned suspensions, interiors, and brakes. The lineup expanded to include 6.4L SRT 392 (Scat Pack 15+) and supercharged 6.2L Hellcat variants, with the 2020 Hellcat Redeye producing 797 hp. Production concluded in December 2023 with Last Call special editions, marking the end of traditional HEMI-powered Chargers before the model's transition to electric power."
+
+  - name: "Eighth Generation (LB)"
+    start_year: 2024
+    end_year: null
+    description: "The eighth-generation Charger was introduced in March 2024 as part of Dodge's electrification strategy for its muscle car lineup. Available as the Charger Daytona, the generation features electric vehicle variants alongside internal combustion engine models, including a version with the Stellantis Hurricane twin-turbo inline-six engine. Offered in two- and four-door hatchback body styles with R/T and Scat Pack trim levels, combining electric performance with traditional muscle car heritage."

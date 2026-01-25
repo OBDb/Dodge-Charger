@@ -34,8 +34,13 @@ generations:
 
   - name: "Seventh Generation (LD)"
     start_year: 2011
+    end_year: 2014
+    description: "The seventh-generation Charger received comprehensive updates for 2011 with new exterior styling and interior quality while maintaining LX platform architecture. Updated side scoops, angular headlights, aggressive grille styling, and modern wrap-around LED tail lights improved driver visibility by over 15%. Base performance increased with a 3.6L Pentastar V6 replacing the previous 3.5L unit. The 2012 year featured a new eight-speed automatic transmission for the V6 model and the SRT-8 returned to the lineup. The Super Bee platform (later called Scat Pack 15+) was available starting in 2012, featuring a 6.4L engine rated at 470 hp."
+
+  - name: "Seventh Generation (LD, 2015 Facelift)"
+    start_year: 2015
     end_year: 2023
-    description: "The seventh-generation Charger received comprehensive updates for 2011 with new exterior styling and interior quality while maintaining LX platform architecture. Updated side scoops, angular headlights, aggressive grille styling, and modern wrap-around LED tail lights improved driver visibility by over 15%. Base performance increased with a 3.6L Pentastar V6 replacing the previous 3.5L unit. A significant 2015 facelift brought new LED headlights, more aerodynamic nose design, and redesigned suspensions, interiors, and brakes. The lineup expanded to include 6.4L SRT 392 (Scat Pack 15+) and supercharged 6.2L Hellcat variants, with the 2020 Hellcat Redeye producing 797 hp. Production concluded in December 2023 with Last Call special editions, marking the end of traditional HEMI-powered Chargers before the model's transition to electric power."
+    description: "The 2015 Charger received significant exterior styling updates with a new front end featuring new LED headlights, more aerodynamic nose design, and a noticeable curve around the headlight housing. Suspensions, interiors, and brakes were also redesigned. The 2017 model had an upgrade to the 8.4-inch navigation/display system. The lineup continued to include the SRT 392 and supercharged Hellcat variants. In 2020, the Charger Hellcat comes standard with the widebody package. For 2020, a new trim called the SRT Hellcat Redeye was added, producing 797 hp. In January 2022, Dodge announced that the Hemi V8 Charger would be retired at the end of the 2023 model year. Production concluded in December 2023 with Last Call special editions, marking the end of traditional HEMI-powered Chargers before the model's transition to electric power."
 
   - name: "Eighth Generation (LB)"
     start_year: 2024

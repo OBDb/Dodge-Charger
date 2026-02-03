@@ -8,3 +8,8 @@ test_cases:
   response: |-
     7E80441210000
     7E80441210000
+- expected_values:
+    MIL_DIST: 0
+  response: |-
+    7E80441210000
+    7E90441210000

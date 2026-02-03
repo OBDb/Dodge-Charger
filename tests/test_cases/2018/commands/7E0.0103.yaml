@@ -1,0 +1,6 @@
+command_id: 7E0.0103
+test_cases:
+- expected_values:
+    FUELSYS1: OL
+    FUELSYS2: OL
+  response: '7E80441030101'

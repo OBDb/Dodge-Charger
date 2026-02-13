@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.225503|fc=1
 test_cases:
 - expected_values:
+    DODGE_GEAR: '1'
+  response: '7E90462550301'
+- expected_values:
+    DODGE_GEAR: '4'
+  response: '7E90462550304'
+- expected_values:
     DODGE_GEAR: REAR
   response: 7E9046255030B
 - expected_values:

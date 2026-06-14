@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     DODGE_ODO: 614.4
   response: 7E80562043B004B
+- expected_values:
+    DODGE_ODO: 89497.6
+  response: 7E80562043B2AAD

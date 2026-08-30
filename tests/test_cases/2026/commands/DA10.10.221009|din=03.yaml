@@ -1,0 +1,8 @@
+command_id: DA10.10.221009|din=03
+test_cases:
+- expected_values:
+    DODGE_WATER_FUEL_DIST: 0
+  response: 18DAF110056210090000
+- expected_values:
+    DODGE_WATER_FUEL_DIST: 158
+  response: 18DAF11005621009009E

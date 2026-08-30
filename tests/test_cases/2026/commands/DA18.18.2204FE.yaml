@@ -1,0 +1,11 @@
+command_id: DA18.18.2204FE
+test_cases:
+- expected_values:
+    DODGE_ATF_T_4THGEN: 31
+  response: 18DAF118066204FE474851
+- expected_values:
+    DODGE_ATF_T_4THGEN: 87
+  response: 18DAF118066204FE7F828C
+- expected_values:
+    DODGE_ATF_T_4THGEN: 88
+  response: 18DAF118066204FE80818B

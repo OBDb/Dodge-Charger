@@ -1,0 +1,11 @@
+command_id: DA10.10.221000|din=03
+test_cases:
+- expected_values:
+    DODGE_RPM_ECU: 0
+  response: 18DAF110056210000000
+- expected_values:
+    DODGE_RPM_ECU: 639
+  response: 18DAF1100562100009FC
+- expected_values:
+    DODGE_RPM_ECU: 2276
+  response: 18DAF110056210002390

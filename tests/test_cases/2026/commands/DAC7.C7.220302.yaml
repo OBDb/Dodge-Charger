@@ -1,0 +1,9 @@
+command_id: DAC7.C7.220302
+test_cases:
+- expected_values:
+    DODGE_DRIVER_DOOR_OPEN: 0
+    DODGE_PASSENGER_DOOR_OPEN: 0
+    DODGE_RLD_OPEN: 0
+    DODGE_RRD_OPEN: 0
+    DODGE_TRUNK_OPEN: 0
+  response: 18DAF1C70462030200

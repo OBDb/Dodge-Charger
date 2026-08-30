@@ -1,0 +1,34 @@
+command_id: DA18.18.22051A
+test_cases:
+- expected_values:
+    DODGE_GEAR_CURRENT: 1
+    DODGE_GEAR_DESIRED: 1
+  response: 18DAF1180462051A11
+- expected_values:
+    DODGE_GEAR_CURRENT: 2
+    DODGE_GEAR_DESIRED: 2
+  response: 18DAF1180462051A22
+- expected_values:
+    DODGE_GEAR_CURRENT: 2
+    DODGE_GEAR_DESIRED: 3
+  response: 18DAF1180462051A32
+- expected_values:
+    DODGE_GEAR_CURRENT: 3
+    DODGE_GEAR_DESIRED: 3
+  response: 18DAF1180462051A33
+- expected_values:
+    DODGE_GEAR_CURRENT: 4
+    DODGE_GEAR_DESIRED: 4
+  response: 18DAF1180462051A44
+- expected_values:
+    DODGE_GEAR_CURRENT: 5
+    DODGE_GEAR_DESIRED: 5
+  response: 18DAF1180462051A55
+- expected_values:
+    DODGE_GEAR_CURRENT: 7
+    DODGE_GEAR_DESIRED: 7
+  response: 18DAF1180462051A77
+- expected_values:
+    DODGE_GEAR_CURRENT: 8
+    DODGE_GEAR_DESIRED: 8
+  response: 18DAF1180462051A88

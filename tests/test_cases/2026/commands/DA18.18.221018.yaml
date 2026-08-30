@@ -1,0 +1,14 @@
+command_id: DA18.18.221018
+test_cases:
+- expected_values:
+    DODGE_TCM_TORQUE: -39
+  response: 18DAF1180562101801CD
+- expected_values:
+    DODGE_TCM_TORQUE: 11
+  response: 18DAF1180562101801FF
+- expected_values:
+    DODGE_TCM_TORQUE: 12
+  response: 18DAF118056210180200
+- expected_values:
+    DODGE_TCM_TORQUE: 284
+  response: 18DAF118056210180310

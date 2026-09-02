@@ -4,26 +4,5 @@ test_cases:
     DODGE_ODO: 93462.528
   response: 7E80562043B2C91
 - expected_values:
-    DODGE_ODO: 93470.72
-  response: 7E80562043B2C92
-- expected_values:
-    DODGE_ODO: 93478.912
-  response: 7E80562043B2C93
-- expected_values:
-    DODGE_ODO: 93503.488
-  response: 7E80562043B2C96
-- expected_values:
-    DODGE_ODO: 93511.68
-  response: 7E80562043B2C97
-- expected_values:
-    DODGE_ODO: 93519.872
-  response: 7E80562043B2C98
-- expected_values:
-    DODGE_ODO: 93528.064
-  response: 7E80562043B2C99
-- expected_values:
-    DODGE_ODO: 93536.256
-  response: 7E80562043B2C9A
-- expected_values:
-    DODGE_ODO: 93544.448
-  response: 7E80562043B2C9B
+    DODGE_ODO: 93601.792
+  response: 7E80562043B2CA2

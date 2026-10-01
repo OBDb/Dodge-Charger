@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2204FE|f=2011-2023
+test_cases:
+- expected_values:
+    CHARGER_ATF_T: 82.4
+  response: 7E9046204FE44
+- expected_values:
+    CHARGER_ATF_T: 154.4
+  response: 7E9046204FE6C

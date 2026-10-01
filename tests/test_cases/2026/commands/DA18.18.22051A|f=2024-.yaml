@@ -1,0 +1,38 @@
+command_id: DA18.18.22051A|f=2024-
+test_cases:
+- expected_values:
+    CHARGER_GEAR_CURRENT: 1
+    CHARGER_GEAR_DESIRED: 1
+  response: 18DAF1180462051A11
+- expected_values:
+    CHARGER_GEAR_CURRENT: 2
+    CHARGER_GEAR_DESIRED: 2
+  response: 18DAF1180462051A22
+- expected_values:
+    CHARGER_GEAR_CURRENT: 2
+    CHARGER_GEAR_DESIRED: 3
+  response: 18DAF1180462051A32
+- expected_values:
+    CHARGER_GEAR_CURRENT: 3
+    CHARGER_GEAR_DESIRED: 3
+  response: 18DAF1180462051A33
+- expected_values:
+    CHARGER_GEAR_CURRENT: 4
+    CHARGER_GEAR_DESIRED: 4
+  response: 18DAF1180462051A44
+- expected_values:
+    CHARGER_GEAR_CURRENT: 5
+    CHARGER_GEAR_DESIRED: 5
+  response: 18DAF1180462051A55
+- expected_values:
+    CHARGER_GEAR_CURRENT: 7
+    CHARGER_GEAR_DESIRED: 7
+  response: 18DAF1180462051A77
+- expected_values:
+    CHARGER_GEAR_CURRENT: 8
+    CHARGER_GEAR_DESIRED: 8
+  response: 18DAF1180462051A88
+- expected_values:
+    CHARGER_GEAR_CURRENT: 13
+    CHARGER_GEAR_DESIRED: 13
+  response: 18DAF1180462051ADD

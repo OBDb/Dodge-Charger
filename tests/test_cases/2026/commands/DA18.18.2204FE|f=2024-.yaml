@@ -1,0 +1,11 @@
+command_id: DA18.18.2204FE|f=2024-
+test_cases:
+- expected_values:
+    CHARGER_ATF_T_DA18: 31
+  response: 18DAF118066204FE474851
+- expected_values:
+    CHARGER_ATF_T_DA18: 87
+  response: 18DAF118066204FE7F828C
+- expected_values:
+    CHARGER_ATF_T_DA18: 88
+  response: 18DAF118066204FE80818B

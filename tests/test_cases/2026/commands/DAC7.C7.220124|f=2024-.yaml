@@ -1,0 +1,5 @@
+command_id: DAC7.C7.220124|f=2024-
+test_cases:
+- expected_values:
+    CHARGER_TID_FR: 1073951073
+  response: 18DAF1C70762012440033161

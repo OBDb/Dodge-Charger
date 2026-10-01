@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22043B|f=2011-2023
+test_cases:
+- expected_values:
+    CHARGER_ODO: 160014.336
+  response: 7E80562043B4C4D

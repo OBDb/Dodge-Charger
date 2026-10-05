@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "763", "rax": "4E3", "fcm1": true, "cmd": {"22": "032D"}, "freq": 0.25, "filter": { "from": 2015, "to": 2023 }, "dbgfilter": { "years": [2016, 2017, 2020], "from": 2022 },
   "signals": [
     {"id": "CHARGER_HIGHBEAMS_ON", "path": "Control", "fmt": {"bix": 3, "len": 1, "max": 1, "unit": "offon" }, "name": "High beams"},

@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2202B5|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 5.0625
+  response: 7E8056202B50144
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 5.45312
+  response: 7E8056202B5015D
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 8.75
+  response: 7E8056202B50230
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 11.98438
+  response: 7E8056202B502FF
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 14.53125
+  response: 7E8056202B503A2
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 20.89062
+  response: 7E8056202B50539
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 21.57812
+  response: 7E8056202B50565
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 24.75
+  response: 7E8056202B50630
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 32.14062
+  response: 7E8056202B50809
+- expected_values:
+    CHARGER_REQUIRED_FUEL_CHG_4: 41.875
+  response: 7E8056202B50A78

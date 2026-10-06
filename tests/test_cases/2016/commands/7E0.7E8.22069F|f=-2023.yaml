@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22069F|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 43
+  response: 7E80462069F6B
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 47
+  response: 7E80462069F6F
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 51
+  response: 7E80462069F73
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 57
+  response: 7E80462069F79
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 64
+  response: 7E80462069F80
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 67
+  response: 7E80462069F83
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 69
+  response: 7E80462069F85
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 70
+  response: 7E80462069F86
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 72
+  response: 7E80462069F88
+- expected_values:
+    CHARGER_VARIABLE_VLV_TIM_OIL_T: 73
+  response: 7E80462069F89

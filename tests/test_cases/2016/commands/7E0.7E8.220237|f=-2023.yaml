@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220237|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 0.56
+  response: '7E80762023700000230'
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 0.664
+  response: '7E80762023700000298'
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 0.696
+  response: 7E807620237000002B8
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 1.688
+  response: '7E80762023700000698'
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 3.032
+  response: 7E80762023700000BD8
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 4.344
+  response: 7E807620237000010F8
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 4.72
+  response: '7E80762023700001270'
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 7.448
+  response: 7E80762023700001D18
+- expected_values:
+    CHARGER_INJ_WIDTH_CYL_4: 9.312
+  response: '7E80762023700002460'

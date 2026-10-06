@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.225034|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_MAIN_CYL_P: -40
+  response: '7E9056250340000'
+- expected_values:
+    CHARGER_MAIN_CYL_P: -24.3
+  response: 7E905625034009D

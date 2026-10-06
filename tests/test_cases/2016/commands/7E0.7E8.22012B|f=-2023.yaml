@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22012B|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_CAT_MODEL_T: 620
+  response: 7E80562012B026C
+- expected_values:
+    CHARGER_CAT_MODEL_T: 653
+  response: 7E80562012B028D
+- expected_values:
+    CHARGER_CAT_MODEL_T: 663
+  response: 7E80562012B0297
+- expected_values:
+    CHARGER_CAT_MODEL_T: 669
+  response: 7E80562012B029D
+- expected_values:
+    CHARGER_CAT_MODEL_T: 686
+  response: 7E80562012B02AE
+- expected_values:
+    CHARGER_CAT_MODEL_T: 695
+  response: 7E80562012B02B7
+- expected_values:
+    CHARGER_CAT_MODEL_T: 699
+  response: 7E80562012B02BB
+- expected_values:
+    CHARGER_CAT_MODEL_T: 704
+  response: 7E80562012B02C0
+- expected_values:
+    CHARGER_CAT_MODEL_T: 736
+  response: 7E80562012B02E0

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220227|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_FLI_INPUT: 77.2549
+  response: 7E804620227C5

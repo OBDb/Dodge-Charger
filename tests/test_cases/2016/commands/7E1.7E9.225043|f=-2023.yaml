@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.225043|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_ATF_T_7E1: 43
+  response: '7E90462504353'
+- expected_values:
+    CHARGER_ATF_T_7E1: 54
+  response: 7E9046250435E
+- expected_values:
+    CHARGER_ATF_T_7E1: 67
+  response: 7E9046250436B
+- expected_values:
+    CHARGER_ATF_T_7E1: 71
+  response: 7E9046250436F

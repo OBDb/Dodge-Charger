@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220109|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_BAROMETRIC_P: 98.8
+  response: 7E80562010901EE

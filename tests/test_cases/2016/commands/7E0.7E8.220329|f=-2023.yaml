@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220329|f=-2023
+test_cases:
+- expected_values:
+    CHARGER_AC_HIGH_SIDE_P: 378
+  response: 7E8046203291B
+- expected_values:
+    CHARGER_AC_HIGH_SIDE_P: 392
+  response: 7E8046203291C
+- expected_values:
+    CHARGER_AC_HIGH_SIDE_P: 406
+  response: 7E8046203291D
+- expected_values:
+    CHARGER_AC_HIGH_SIDE_P: 448
+  response: '7E80462032920'
+- expected_values:
+    CHARGER_AC_HIGH_SIDE_P: 532
+  response: '7E80462032926'
+- expected_values:
+    CHARGER_AC_HIGH_SIDE_P: 630
+  response: 7E8046203292D
+- expected_values:
+    CHARGER_AC_HIGH_SIDE_P: 714
+  response: '7E80462032933'

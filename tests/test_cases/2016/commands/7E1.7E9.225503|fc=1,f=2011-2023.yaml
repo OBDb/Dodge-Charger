@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.225503|fc=1,f=2011-2023
+test_cases:
+- expected_values:
+    CHARGER_GEAR: '1'
+  response: '7E90462550301'
+- expected_values:
+    CHARGER_GEAR: '4'
+  response: '7E90462550304'
+- expected_values:
+    CHARGER_GEAR: '6'
+  response: '7E90462550306'
+- expected_values:
+    CHARGER_GEAR: '7'
+  response: '7E90462550307'

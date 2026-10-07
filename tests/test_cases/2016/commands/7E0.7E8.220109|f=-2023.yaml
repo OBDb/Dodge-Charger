@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHARGER_BAROMETRIC_P: 98.8
   response: 7E80562010901EE
+- expected_values:
+    CHARGER_BAROMETRIC_P: 99
+  response: 7E80562010901EF

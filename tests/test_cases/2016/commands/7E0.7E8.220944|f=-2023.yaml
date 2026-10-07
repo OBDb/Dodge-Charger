@@ -1,11 +1,17 @@
 command_id: 7E0.7E8.220944|f=-2023
 test_cases:
 - expected_values:
+    CHARGER_BRAKE_BOOSTER_P: 57.55
+  response: 7E805620944167B
+- expected_values:
     CHARGER_BRAKE_BOOSTER_P: 69.65
   response: 7E8056209441B35
 - expected_values:
     CHARGER_BRAKE_BOOSTER_P: 71.85
   response: 7E8056209441C11
+- expected_values:
+    CHARGER_BRAKE_BOOSTER_P: 72.95
+  response: 7E8056209441C7F
 - expected_values:
     CHARGER_BRAKE_BOOSTER_P: 73.5
   response: 7E8056209441CB6
@@ -15,6 +21,9 @@ test_cases:
 - expected_values:
     CHARGER_BRAKE_BOOSTER_P: 76.25
   response: 7E8056209441DC9
+- expected_values:
+    CHARGER_BRAKE_BOOSTER_P: 76.8
+  response: 7E8056209441E00
 - expected_values:
     CHARGER_BRAKE_BOOSTER_P: 77.9
   response: 7E8056209441E6E

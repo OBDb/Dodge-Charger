@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.220127|f=-2023
 test_cases:
 - expected_values:
+    CHARGER_AAT: 43
+  response: '7E80462012746'
+- expected_values:
+    CHARGER_AAT: 44.8
+  response: '7E80462012747'
+- expected_values:
     CHARGER_AAT: 46.6
   response: '7E80462012748'
 - expected_values:

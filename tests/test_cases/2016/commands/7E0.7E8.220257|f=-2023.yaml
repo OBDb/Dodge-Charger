@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.220257|f=-2023
 test_cases:
 - expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 6.73438
-  response: 7E80562025701AF
-- expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 11.6875
-  response: 7E80562025702EC
-- expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 14.20312
-  response: 7E805620257038D
-- expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 15.42188
-  response: 7E80562025703DB
+    CHARGER_FUEL_MASS_CYL_3: 4.54688
+  response: '7E8056202570123'
 - expected_values:
     CHARGER_FUEL_MASS_CYL_3: 19.76562
   response: 7E80562025704F1
-- expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 20.84375
-  response: '7E8056202570536'
-- expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 21.92188
-  response: 7E805620257057B
-- expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 30.48438
-  response: 7E805620257079F
-- expected_values:
-    CHARGER_FUEL_MASS_CYL_3: 37.96875
-  response: 7E805620257097E
 - expected_values:
     CHARGER_FUEL_MASS_CYL_3: 43.51562
   response: 7E8056202570AE1

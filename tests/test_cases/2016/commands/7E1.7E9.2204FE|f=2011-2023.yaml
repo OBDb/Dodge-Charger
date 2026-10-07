@@ -1,11 +1,26 @@
 command_id: 7E1.7E9.2204FE|f=2011-2023
 test_cases:
 - expected_values:
+    CHARGER_ATF_T: 93.2
+  response: 7E9066204FE4A4747
+- expected_values:
+    CHARGER_ATF_T: 93.2
+  response: 7E9066204FE4A4948
+- expected_values:
+    CHARGER_ATF_T: 96.8
+  response: 7E9066204FE4C4A4A
+- expected_values:
     CHARGER_ATF_T: 96.8
   response: 7E9066204FE4C4B4A
 - expected_values:
+    CHARGER_ATF_T: 98.6
+  response: 7E9066204FE4D4C4B
+- expected_values:
     CHARGER_ATF_T: 100.4
   response: 7E9066204FE4E4C4B
+- expected_values:
+    CHARGER_ATF_T: 102.2
+  response: 7E9066204FE4F4E4D
 - expected_values:
     CHARGER_ATF_T: 105.8
   response: 7E9066204FE514E4E

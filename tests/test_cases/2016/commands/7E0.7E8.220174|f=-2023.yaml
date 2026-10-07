@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.220174|f=-2023
 test_cases:
 - expected_values:
-    CHARGER_MAP: 38.4
-  response: 7E80562017400C0
-- expected_values:
-    CHARGER_MAP: 40.4
-  response: 7E80562017400CA
-- expected_values:
-    CHARGER_MAP: 46
-  response: 7E80562017400E6
+    CHARGER_MAP: 19.4
+  response: '7E8056201740061'
 - expected_values:
     CHARGER_MAP: 56
   response: '7E8056201740118'
 - expected_values:
-    CHARGER_MAP: 66.6
-  response: 7E805620174014D
-- expected_values:
-    CHARGER_MAP: 76.6
-  response: 7E805620174017F
-- expected_values:
-    CHARGER_MAP: 82.6
-  response: 7E805620174019D
-- expected_values:
-    CHARGER_MAP: 95.6
-  response: 7E80562017401DE
-- expected_values:
-    CHARGER_MAP: 97
-  response: 7E80562017401E5
-- expected_values:
-    CHARGER_MAP: 97.2
-  response: 7E80562017401E6
+    CHARGER_MAP: 97.4
+  response: 7E80562017401E7

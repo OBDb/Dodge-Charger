@@ -7,26 +7,5 @@ test_cases:
     CHARGER_INJ_WIDTH_CYL_3: 1.016
   response: 7E807620236000003F8
 - expected_values:
-    CHARGER_INJ_WIDTH_CYL_3: 1.48
-  response: 7E807620236000005C8
-- expected_values:
-    CHARGER_INJ_WIDTH_CYL_3: 2.176
-  response: '7E80762023600000880'
-- expected_values:
-    CHARGER_INJ_WIDTH_CYL_3: 2.296
-  response: 7E807620236000008F8
-- expected_values:
-    CHARGER_INJ_WIDTH_CYL_3: 2.832
-  response: 7E80762023600000B10
-- expected_values:
-    CHARGER_INJ_WIDTH_CYL_3: 4.44
-  response: '7E80762023600001158'
-- expected_values:
-    CHARGER_INJ_WIDTH_CYL_3: 4.888
-  response: '7E80762023600001318'
-- expected_values:
-    CHARGER_INJ_WIDTH_CYL_3: 5.432
-  response: '7E80762023600001538'
-- expected_values:
     CHARGER_INJ_WIDTH_CYL_3: 10.064
   response: '7E80762023600002750'

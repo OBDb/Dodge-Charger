@@ -7,8 +7,23 @@ test_cases:
     CHARGER_ATF_T_7E1: 54
   response: 7E9046250435E
 - expected_values:
+    CHARGER_ATF_T_7E1: 61
+  response: '7E90462504365'
+- expected_values:
+    CHARGER_ATF_T_7E1: 62
+  response: '7E90462504366'
+- expected_values:
     CHARGER_ATF_T_7E1: 67
   response: 7E9046250436B
 - expected_values:
+    CHARGER_ATF_T_7E1: 68
+  response: 7E9046250436C
+- expected_values:
     CHARGER_ATF_T_7E1: 71
   response: 7E9046250436F
+- expected_values:
+    CHARGER_ATF_T_7E1: 73
+  response: '7E90462504371'
+- expected_values:
+    CHARGER_ATF_T_7E1: 76
+  response: '7E90462504374'

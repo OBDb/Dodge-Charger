@@ -1,23 +1,14 @@
 command_id: 7E0.7E8.2206C2|f=-2023
 test_cases:
 - expected_values:
+    CHARGER_INT_CAM_1_OFFSET: 8.8
+  response: 7E8056206C20058
+- expected_values:
     CHARGER_INT_CAM_1_OFFSET: 26.1
   response: 7E8056206C20105
 - expected_values:
-    CHARGER_INT_CAM_1_OFFSET: -2.9
-  response: 7E8056206C2FFE3
-- expected_values:
-    CHARGER_INT_CAM_1_OFFSET: -2.8
-  response: 7E8056206C2FFE4
-- expected_values:
-    CHARGER_INT_CAM_1_OFFSET: -2.7
-  response: 7E8056206C2FFE5
-- expected_values:
-    CHARGER_INT_CAM_1_OFFSET: -2.6
-  response: 7E8056206C2FFE6
-- expected_values:
-    CHARGER_INT_CAM_1_OFFSET: -2.3
-  response: 7E8056206C2FFE9
+    CHARGER_INT_CAM_1_OFFSET: -3.3
+  response: 7E8056206C2FFDF
 - expected_values:
     CHARGER_INT_CAM_1_OFFSET: -0.5
   response: 7E8056206C2FFFB

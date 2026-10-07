@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     CHARGER_ODO: 181092.352
   response: 7E80562043B565A
+- expected_values:
+    CHARGER_ODO: 181108.736
+  response: 7E80562043B565C
+- expected_values:
+    CHARGER_ODO: 181116.928
+  response: 7E80562043B565D

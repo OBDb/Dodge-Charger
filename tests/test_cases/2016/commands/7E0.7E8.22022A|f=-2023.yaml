@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.22022A|f=-2023
 test_cases:
 - expected_values:
-    CHARGER_EOP: 49.3
-  response: 7E80462022A55
-- expected_values:
-    CHARGER_EOP: 50.46
-  response: 7E80462022A57
-- expected_values:
-    CHARGER_EOP: 51.62
-  response: 7E80462022A59
-- expected_values:
-    CHARGER_EOP: 56.26
-  response: 7E80462022A61
-- expected_values:
-    CHARGER_EOP: 65.54
-  response: 7E80462022A71
-- expected_values:
-    CHARGER_EOP: 70.18
-  response: 7E80462022A79
-- expected_values:
-    CHARGER_EOP: 70.76
-  response: 7E80462022A7A
+    CHARGER_EOP: 46.98
+  response: 7E80462022A51
 - expected_values:
     CHARGER_EOP: 72.5
   response: 7E80462022A7D

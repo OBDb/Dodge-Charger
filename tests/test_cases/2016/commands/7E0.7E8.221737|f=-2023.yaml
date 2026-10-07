@@ -4,29 +4,8 @@ test_cases:
     CHARGER_FL_WHL_SPD: 0
   response: '7E8056217370000'
 - expected_values:
-    CHARGER_FL_WHL_SPD: 35.5625
-  response: 7E80562173708E4
+    CHARGER_FL_WHL_SPD: 91.8125
+  response: 7E80562173716F4
 - expected_values:
-    CHARGER_FL_WHL_SPD: 38.1875
-  response: 7E805621737098C
-- expected_values:
-    CHARGER_FL_WHL_SPD: 55.5625
-  response: 7E8056217370DE4
-- expected_values:
-    CHARGER_FL_WHL_SPD: 56.9375
-  response: 7E8056217370E3C
-- expected_values:
-    CHARGER_FL_WHL_SPD: 70.5625
-  response: 7E80562173711A4
-- expected_values:
-    CHARGER_FL_WHL_SPD: 82.6875
-  response: 7E80562173714AC
-- expected_values:
-    CHARGER_FL_WHL_SPD: 83.6875
-  response: 7E80562173714EC
-- expected_values:
-    CHARGER_FL_WHL_SPD: 88.4375
-  response: 7E805621737161C
-- expected_values:
-    CHARGER_FL_WHL_SPD: 90
-  response: '7E8056217371680'
+    CHARGER_FL_WHL_SPD: 116.6875
+  response: 7E8056217371D2C

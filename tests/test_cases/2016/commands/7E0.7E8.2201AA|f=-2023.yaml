@@ -4,29 +4,8 @@ test_cases:
     CHARGER_KNOCK_SENS_2: 0.46387
   response: 7E8056201AA17C0
 - expected_values:
-    CHARGER_KNOCK_SENS_2: 0.542
-  response: 7E8056201AA1BC0
-- expected_values:
-    CHARGER_KNOCK_SENS_2: 0.63478
-  response: 7E8056201AA2080
-- expected_values:
-    CHARGER_KNOCK_SENS_2: 0.67872
-  response: 7E8056201AA22C0
-- expected_values:
-    CHARGER_KNOCK_SENS_2: 0.79103
-  response: 7E8056201AA2880
-- expected_values:
-    CHARGER_KNOCK_SENS_2: 0.8838
-  response: 7E8056201AA2D40
-- expected_values:
-    CHARGER_KNOCK_SENS_2: 0.96193
-  response: 7E8056201AA3140
-- expected_values:
-    CHARGER_KNOCK_SENS_2: 0.97658
-  response: 7E8056201AA3200
-- expected_values:
-    CHARGER_KNOCK_SENS_2: 0.99611
-  response: 7E8056201AA3300
+    CHARGER_KNOCK_SENS_2: 0.54688
+  response: 7E8056201AA1C00
 - expected_values:
     CHARGER_KNOCK_SENS_2: 1.17678
   response: 7E8056201AA3C40

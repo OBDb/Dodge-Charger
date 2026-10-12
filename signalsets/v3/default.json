@@ -208,7 +208,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1250"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
-    {"id": "CHARGER_CHG_AIR_T", "path": "Battery", "fmt": { "len": 8, "max": 376, "min": -83, "mul": 9, "div": 5, "add": -83, "unit": "fahrenheit" }, "name": "Charge air temperature"}
+    {"id": "CHARGER_CHG_AIR_T", "path": "Battery", "fmt": { "len": 8, "max": 376, "min": -83, "mul": 9, "div": 5, "add": -83, "nullmin": -83, "unit": "fahrenheit" }, "name": "Charge air temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "14B1"}, "freq": 5, "filter": { "to": 2023 },
   "signals": [

@@ -46,7 +46,7 @@
     {"id": "CHARGER_AAT_7E0", "path": "Engine",  "fmt": {           "len": 16, "max": 1023, "div": 64, "unit": "fahrenheit" }, "name": "Ambient air temperature"},
     {"id": "CHARGER_BAT_T",   "path": "Battery", "fmt": {"bix": 48, "len": 16, "max": 1023, "div": 64, "unit": "fahrenheit" }, "name": "Battery temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "2D"}, "freq": 5, "filter": { "to": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "2D"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
     {"id": "CHARGER_EOT_212D", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 376, "min": -83, "mul": 9, "div": 5, "add": -83, "unit": "fahrenheit" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},

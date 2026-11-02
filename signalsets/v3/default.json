@@ -59,7 +59,7 @@
   "signals": [
     {"id": "CHARGER_AC_HIGH_SIDE_P_7E0", "path": "Engine", "fmt": {"bix": 48, "len": 16, "max": 1191, "div": 55, "unit": "psi" }, "name": "Air conditioning high side pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "A8"}, "freq": 30, "filter": { "to": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "A8"}, "freq": 1, "filter": { "to": 2018 },
   "signals": [
     {"id": "CHARGER_FLI", "path": "Fuel", "fmt": {"bix": 96, "len": 16, "max": 255, "div": 256, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -110,7 +110,7 @@
   "signals": [
     {"id": "CHARGER_IAT_01FF", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Intake manifold air temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0227"}, "freq": 30, "filter": { "to": 2023 }, "dbgfilter": { "to": 2015, "from": 2017 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0227"}, "freq": 1, "filter": { "to": 2023 }, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
     {"id": "CHARGER_FLI_INPUT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level input", "suggestedMetric": "fuelTankLevel"}
   ]},

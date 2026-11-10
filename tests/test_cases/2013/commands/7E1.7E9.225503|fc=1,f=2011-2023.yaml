@@ -16,7 +16,7 @@ test_cases:
     CHARGER_GEAR: '6'
   response: '7E90462550306'
 - expected_values:
-    CHARGER_GEAR: REAR
+    CHARGER_GEAR: REVERSE
   response: 7E9046255030B
 - expected_values:
     CHARGER_GEAR: PARK
